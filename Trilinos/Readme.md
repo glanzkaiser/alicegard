@@ -1,6 +1,10 @@
 # About
 Guidebooks on how to learn Trilinos in 2022.
 
+The newest tutorial can be seen at
+
+https://github.com/trilinos/Trilinos_tutorial/wiki/TrilinosHandsOnTutorial
+
 # Citation
 @techreport{Trilinos-Overview,
 title = "{An Overview of Trilinos}",
