@@ -1,6 +1,7 @@
 # About
 Guidebooks on how to learn Trilinos in 2022.
 
+# Citation
 @techreport{Trilinos-Overview,
 title = "{An Overview of Trilinos}",
 author = "Michael Heroux and Roscoe Bartlett and Vicki Howle Robert Hoekstra and Jonathan Hu and Tamara Kolda and Richard Lehoucq and Kevin Long and Roger Pawlowski and Eric Phipps and Andrew Salinger and Heidi Thornquist and Ray Tuminaro and James Willenbring and Alan Williams ",
