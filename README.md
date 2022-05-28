@@ -14,7 +14,7 @@ We believe that there are always someone better, smarter, and stronger than we a
 While those who are more and more humble will rise up till the highest and even more. Learn from history that who loses are those who always think they are better than others. Enigma can be solved. Nothing is impossible.
 
 # Zerolif (Coming Soon)
-After learning till PhDs finished one day and have our own Arqlab, perhaps have finished my F18G for Freya and Freya Capella (a wonder for a beautiful wife imagine a Sistine Chapel for the interior and Hanging Garden outside, full of beautiful arts of love) we will use our knowledge in science and engineering to solve the world's problems. Compile it into Zerolif. It will be published in the future. Wait for it.
+After learning till PhDs finished one day and have our own Arqlab, perhaps have finished my F18G for Freya and Freya Capella (a wonder for a beautiful wife, just imagine a Sistine Chapel for the interior and Hanging Garden outside, full of beautiful arts of love) we will use our knowledge in science and engineering to solve the world's problems. Compile it into Zerolif. It will be published in the future. Wait for it.
 
 ![Zerolif1](https://raw.githubusercontent.com/glanzkaiser/alicegard/main/Zerolif%20Back%20Cover.png)
 ![Zerolif2](https://raw.githubusercontent.com/glanzkaiser/alicegard/main/Zerolif%20Front%20Cover.png)
